@@ -4,6 +4,6 @@
 ### Technologies used
 * Spring boot 
 * Spring security
-* Spring jpa
+* Spring Data JPA
 * Database
  
