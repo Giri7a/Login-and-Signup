@@ -21,4 +21,4 @@
  * Dto it is data transfer object
  * Entity it will create a database 
  * response  is one login and signup will be useded baased on that it will give you a response based on your actions
- * ### Service it will provided by services.
+ * Service is tell you which or how many services will provided.
