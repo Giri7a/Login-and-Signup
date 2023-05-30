@@ -13,12 +13,13 @@
  
  ### How to down this project?
  * you need to install intellj and h2 database software.
- * Open #start.spring.io and create a spring boot aplication by using this website to set a your sprin boot given requirements (Spring jpa,h2 database,springWeb,spring security).
- * open that spring boot application inte intellj and download all the  maven dependences/plugins.
- * you need to create a package that are:-
- * repo(Repositories)
+ * Open #start.spring.io using this website to set  your spring boot application/ project (Spring jpa,h2 database,springWeb,spring security).
+ * open that spring boot application into intellj and download all the  maven dependences/plugins.
+ * you need to create a packages and classes with interfaces that are:-
+ * repo(Repositories) 
  * Config for security 
  * Dto it is data transfer object
- * Entity it will create a database 
- * response  is one login and signup will be useded baased on that it will give you a response based on your actions
+ * Entity it will created for  database 
+ * response will created fro give you a response for your action 
  * Service is tell you which or how many services will provided.
+ 
