@@ -13,7 +13,7 @@
  
  ### How to down this project?
  * you need to install intellj and h2 database software.
- * Open #start.sprin.io and create a spring boot aplication by using this website to set a your sprin boot given requirements (Spring jpa,h2 database,springWeb,spring security).
+ * Open #start.spring.io and create a spring boot aplication by using this website to set a your sprin boot given requirements (Spring jpa,h2 database,springWeb,spring security).
  * open that spring boot application inte intellj and download all the  maven dependences/plugins.
  * you need to create a package that are:-
  * repo(Repositories)
