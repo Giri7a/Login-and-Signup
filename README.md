@@ -22,4 +22,5 @@
  * Entity it will created for  database 
  * response will created fro give you a response for your action 
  * Service is tell you which or how many services will provided.
+ * for data base you need to open h2 database and connect it into spring boot  application properties.
  
