@@ -17,10 +17,10 @@
  * open that spring boot application into intellj and download all the  maven dependences/plugins.
  * you need to create a packages and classes with interfaces that are:-
  * > repo(Repositories) is used to create for to cheching your email and password credentials.
- *> Config for security 
- * Dto it is data transfer object it will transfer the data in to database and checking your details.
- * Entity it will created for  database 
- * response will created fro give you a response for your action.
- * Service is tell you which or how many services will provided.
- * for data base you need to open h2 database and connect it into spring boot  application properties.
+ * > Config for security 
+ * > Dto it is data transfer object it will transfer the data in to database and checking your details.
+ * > Entity it will created for  database 
+ * > response will created fro give you a response for your action.
+ * > Service is tell you which or how many services will provided.
+ * > for data base you need to open h2 database and connect it into spring boot  application properties.
  
