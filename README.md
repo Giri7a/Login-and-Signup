@@ -13,8 +13,8 @@
  
  ### How to down this project?
  * > you need to install intellj and h2 database software.
- > Open #start.spring.io using this website to set  your spring boot application/ project (Spring jpa,h2 database,springWeb,spring security).
- > open that spring boot application into intellj and download all the  maven dependences/plugins.
+ * > Open #start.spring.io using this website to set  your spring boot application/ project (Spring jpa,h2 database,springWeb,spring security).
+ 8 > open that spring boot application into intellj and download all the  maven dependences/plugins.
  * you need to create a packages and classes with interfaces that are:-
   * > repo(Repositories) is used to create for to cheching your email and password credentials.
   * > Config for security 
